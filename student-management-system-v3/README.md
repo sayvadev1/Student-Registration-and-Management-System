@@ -20,7 +20,7 @@ These are intentionally simple for the learning project. In a production system,
 
 ## Run
 Run `com.student.Main` as a Java Application in Eclipse, then open:
-`http://localhost:8080/student-management-system/`
+`http://localhost:8081/student-management-system/`
 
 For a student-facing registration link:
-`http://localhost:8080/student-management-system/register-student`
+`http://localhost:8081/student-management-system/register-student`
